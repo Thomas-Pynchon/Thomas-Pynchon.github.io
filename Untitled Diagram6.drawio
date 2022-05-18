@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-18T22:00:02.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="lv7Y6pQm0KHYgoi9u5KQ" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-18T22:04:09.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="OBGZstz8pe8hxVsZIvUf" version="18.0.7" type="github">
   <diagram id="XKc3KVFMeeqk282OgJKy" name="Page-1">
     <mxGraphModel dx="856" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="MSYMzyp2a84vjGARM3MN-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MSYMzyp2a84vjGARM3MN-11" target="MSYMzyp2a84vjGARM3MN-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MSYMzyp2a84vjGARM3MN-11" value="角速度PID控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MSYMzyp2a84vjGARM3MN-11" value="角速度P控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="242.5" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MSYMzyp2a84vjGARM3MN-13" value="电机执行器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
