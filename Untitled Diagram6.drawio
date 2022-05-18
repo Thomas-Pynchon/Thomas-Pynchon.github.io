@@ -1,1 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2022-05-18T21:52:30.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" version="18.0.7" etag="ftOu9yKGzGzLIew8iv-F" type="github"><diagram id="XKc3KVFMeeqk282OgJKy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-18T22:00:02.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="lv7Y6pQm0KHYgoi9u5KQ" version="18.0.7" type="github">
+  <diagram id="XKc3KVFMeeqk282OgJKy" name="Page-1">
+    <mxGraphModel dx="856" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MSYMzyp2a84vjGARM3MN-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MSYMzyp2a84vjGARM3MN-1" target="MSYMzyp2a84vjGARM3MN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-1" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="245" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="MSYMzyp2a84vjGARM3MN-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="260" as="sourcePoint" />
+            <mxPoint x="110" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MSYMzyp2a84vjGARM3MN-3" target="MSYMzyp2a84vjGARM3MN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-3" value="角度PID控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="242.5" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-5" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="265" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-6" value="期望欧拉角" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="242.5" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MSYMzyp2a84vjGARM3MN-7" target="MSYMzyp2a84vjGARM3MN-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-7" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="245" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-9" value="输出&lt;br&gt;角速度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="269" y="230" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-10" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="262.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MSYMzyp2a84vjGARM3MN-11" target="MSYMzyp2a84vjGARM3MN-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-11" value="角速度PID控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="242.5" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-13" value="电机执行器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="242.5" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-15" value="角加速度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="240" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-16" value="" style="endArrow=classic;html=1;rounded=0;exitDx=0;exitDy=0;startArrow=none;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="MSYMzyp2a84vjGARM3MN-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="260" as="sourcePoint" />
+            <mxPoint x="630" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MSYMzyp2a84vjGARM3MN-17" target="MSYMzyp2a84vjGARM3MN-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="328" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-17" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-18" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MSYMzyp2a84vjGARM3MN-13" target="MSYMzyp2a84vjGARM3MN-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="260" as="sourcePoint" />
+            <mxPoint x="720" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-20" value="" style="endArrow=none;html=1;rounded=0;exitDx=0;exitDy=0;startArrow=none;" edge="1" parent="1" source="MSYMzyp2a84vjGARM3MN-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="260" as="sourcePoint" />
+            <mxPoint x="690" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MSYMzyp2a84vjGARM3MN-22" target="MSYMzyp2a84vjGARM3MN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-22" value="陀螺仪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="310" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-26" value="-" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MSYMzyp2a84vjGARM3MN-27" target="MSYMzyp2a84vjGARM3MN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-27" value="惯性测量元件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="370" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-30" value="角速度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="290" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-32" value="-" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MSYMzyp2a84vjGARM3MN-33" value="解算所得&lt;br&gt;欧拉角" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
