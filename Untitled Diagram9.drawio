@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T16:05:55.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="LnwxfqLRa4NPa_yiKf6p" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-19T16:07:55.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="D1F6wIaH8zaCT0urtCVx" version="18.0.7" type="github">
   <diagram id="j_OQ7gTMTuMjUYhutDOx" name="Page-1">
     <mxGraphModel dx="1692" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,6 +28,18 @@
         </mxCell>
         <mxCell id="3mfLvI7R5a4SeBiyf97p-17" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="595" y="325" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3mfLvI7R5a4SeBiyf97p-18" value="图注" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="585" y="160" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3mfLvI7R5a4SeBiyf97p-19" value="存在色块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="570" y="260" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3mfLvI7R5a4SeBiyf97p-20" value="无色块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="575" y="360" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3mfLvI7R5a4SeBiyf97p-21" value="未知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="585" y="460" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
