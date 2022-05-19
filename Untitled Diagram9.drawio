@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T16:27:22.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="tQEHMdTSgZbme4fXz1pR" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-19T17:48:03.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="PfAOGGiEJmZ4SDAOV1Zv" version="18.0.7" type="github">
   <diagram id="j_OQ7gTMTuMjUYhutDOx" name="Page-1">
     <mxGraphModel dx="1354" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="3mfLvI7R5a4SeBiyf97p-54" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="515" y="315" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3mfLvI7R5a4SeBiyf97p-56" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#666666;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="570" y="220" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
